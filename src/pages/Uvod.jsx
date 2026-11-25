@@ -18,7 +18,7 @@ const kroky = [
 ];
 
 export default function Uvod() {
-  const prvniTriVozy = vozy.slice(0, 3); // na úvodu ukážeme jen 3 vozy
+  const prvniTriVozy = vozy.slice(0, 3);
 
   return (
     <>
